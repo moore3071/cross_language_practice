@@ -5,3 +5,5 @@ R is a GNU implementation of the Bell Labs statistical language S (R-Project.org
 ##Resources
 ###About
 + r-project.org
+##Quirks
++ R starts indexing at 1
