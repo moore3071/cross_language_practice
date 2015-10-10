@@ -1,0 +1,10 @@
+.\"man page for make_problem script.
+.TH make_problem
+.SH NAME
+make_problem \- make a directory for problem $1 with a readme with description.
+.SH SYNOPSIS
+.B make_problem 
+.IR number
+.SH DESCRIPTION
+.B make_problem
+makes a directory for the problem number provided if such a problem directory doesn't already exist in the directory
